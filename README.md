@@ -1,6 +1,6 @@
 # twit_rep_mangement
-Exploring the data of reputation management with a focus on social media 
-
+Exploring the data of reputation management with a focus on social media
+- By looking at the tweets concerning a movie, can we determine any tells that may indicate that the discourse is a product of sincere viewer engagement or the product a company's reputation management team.
 
 #### Points of Interest (Construction Asset):
 - https://marketing.twitter.com/en/insights/promoting-movies-on-twitter-boosts-key-metrics
